@@ -1,4 +1,4 @@
 ﻿User-agent: *
 Allow: /
 
-Sitemap: https://moviemanejeongdo.github.io/StudyReminder/sitemap.xml
+Sitemap: https://webp10108.github.io/sitemap.xml
